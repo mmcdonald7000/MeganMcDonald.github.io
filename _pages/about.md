@@ -6,23 +6,23 @@ title: "About Megan McDonald"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Megan is an undergraduate sophmore who enjoyes being involved with her campus. She manages her time well, priorities her studies, and keeps an effective balance between work and pastime activities (i.e, playing tennis and painting). 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * Bachelor of Engineering in Chemical Engineering
+  * Chemistry Minor
+  * Digital Fabrication Minor
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Megan can operate a number of different 3D printers and create CAD renderings on Fusion. Her work with Fused Filament Fabrication (FFF) has taught her how to produce and analyze the plastic polymers that are fed through the printers. She has expereince with the following machinery used in and for the fabrication lab:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Fused Filament Fabrication printers
+* Rheometer
+* Differential Scanning Calorimeters (DSC)
+* Pelletizer
+* Filabot EX2 and EX6 filament extruders
+* Regrinder
 
 ## Press 
 
