@@ -1,6 +1,6 @@
 ---
-title: "Large Format 3D Printer"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+title: "Syringe Pump Project"
+excerpt: "A low budget automatated syringe pump system designed with 3D printed parts."
 header:
   image: /assets/img/Syringe Pump Design.jpg
   teaser: /assets/img/Syringe Pump Design.jpg
