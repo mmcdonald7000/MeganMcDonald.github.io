@@ -1,6 +1,6 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "3D Printing of Recycled Thermoplastic Polylactic Acid Monomers"
+excerpt: "This project presents an overview of some common 3D printing materials, the encoded setting parameters in the program Super Slicer, the extrusion and pelletizing process of polylactic acid (PLA) filament, and the thermal properties of PLA through DSC analysis. The goal of this project was to find an effective way to recycle PLA filament."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
