@@ -2,10 +2,10 @@
 title: "Large Format 3D Printer"
 excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
 header:
-  image: /assets/img/IMG_6361(1).jpg
-  teaser: /assets/img/IMG_6361(1).jpg
+  image: /assets/img/Syringe Pump Design.jpg
+  teaser: /assets/img/Syringe Pump Design.jpg
 gallery:
-  - image_path: assets/img/IMG_6361(1).jpg
+  - image_path: assets/img/Syringe Pump Design.jpg
   - image_path: assets/img/Slide-2.png
   - image_path: assets/img/Slide-4.png
    
