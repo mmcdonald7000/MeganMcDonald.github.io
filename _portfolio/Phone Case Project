@@ -5,8 +5,8 @@ header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/Phone_and_Phone_Case_2022-Nov-01_05-19-45AM-000_CustomizedView26592422270.png
+    image_path: assets/img/Phone_and_Phone_Case_2022-Nov-01_05-19-45AM-000_CustomizedView26592422270.png
     alt: "placeholder image 1"
   - url: /assets/img/Cyber-Scooter-2.jpg
     image_path: assets/img/Cyber-Scooter-2.jpg
