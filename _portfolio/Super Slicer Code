@@ -4,11 +4,17 @@ excerpt: "A set of configuration files that can make it easier and faster to pri
 header:
   image: /assets/img/Homepage image.jpg
   teaser: /assets/img/Homepage image.jpg
-gallery:
-  - image_path: assets/img/Code of Super Slicer.png
-  - image_path: assets/img/SuperSlicer.png
-  - image_path: assets/img/Syringe Pump pic 3.jpg
-   
+  
+  gallery:
+  - url: /assets/img/Code of Super Slicer.png
+    image_path: assets/img/Code of Super Slicer.png
+    alt: "placeholder image 1"
+  - url: /assets/img/SuperSlicer.png
+    image_path: assets/img/SuperSlicer.png
+    alt: "placeholder image 2"
+  - url: /assets/img/Cyber-Scooter-3.jpg
+    image_path: assets/img/Cyber-Scooter-3.jpg
+    alt: "placeholder image 3"
 ---
 
 # Features
