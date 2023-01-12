@@ -4,11 +4,11 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: /assets/img/Homepage image.jpg 
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Megan McDonald is an undergraduate engineering student at Vanderbilt University with a passion for learning and creativity. Her area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Megan McDonald is an undergraduate engineering student at Vanderbilt University with a passion for learning and creativity."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
