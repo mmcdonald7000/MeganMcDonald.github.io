@@ -5,8 +5,8 @@ header:
   image: /assets/img/Homepage image.jpg
   teaser: /assets/img/Homepage image.jpg
 gallery:
-  - image_path: assets/img/Syringe Pump Design.jpg
-  - image_path: assets/img/Syringe Pump pic 2.jpg 
+  - image_path: assets/img/Code of Super Slicer.png
+  - image_path: assets/img/SuperSlicer.png
   - image_path: assets/img/Syringe Pump pic 3.jpg
    
 ---
