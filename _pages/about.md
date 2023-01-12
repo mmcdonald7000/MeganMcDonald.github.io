@@ -24,8 +24,4 @@ Megan can operate a number of different 3D printers and create CAD renderings on
 * Filabot EX2 and EX6 filament extruders
 * Regrinder
 
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
 ![Megan McDonald](/assets/img/Screenshot 2023-01-10 191239.png)
