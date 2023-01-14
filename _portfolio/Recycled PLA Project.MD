@@ -28,5 +28,3 @@ With an expected annual growth rate of 20.8%, the 3D printing industry is expect
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43783cdaa568f87aa1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
-{% include header caption="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filabot.com%2Fproducts%2Fex6-bundle&psig=AOvVaw15RNJQ9ZOmFmS7RH9c7Lgi&ust=1673809624862000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJD7z_Pgx_wCFQAAAAAdAAAAABAD)" %}
-
