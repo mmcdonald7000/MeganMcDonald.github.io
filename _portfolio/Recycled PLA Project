@@ -2,11 +2,11 @@
 title: "3D Printing of Recycled Thermoplastic Polylactic Acid Monomers"
 excerpt: "A project that explores an effective way to recycle PLA filament."
 header:
-  image: /assets/img/Pellets.jpg
-  teaser: /assets/img/Pelletizer.jpg
+  image: /assets/img/Extruder.jpg
+  teaser: /assets/img/Pellets.jpg
 gallery:
-  - url: /assets/img/Extruder.png
-    image_path: assets/img/Extruder.png
+  - url: /assets/img/Pellets.png
+    image_path: assets/img/Pellets.png
     alt: "placeholder image 1"
   - url: /assets/img/Nozzel.png
     image_path: assets/img/Nozzel.png
@@ -17,8 +17,11 @@ gallery:
   - url: /assets/img/Regrind.png
     image_path: assets/img/Regrind.png
     alt: "placeholder image 4"    
+  - url: /assets/img/Pelletizer.jpg
+    image_path: assets/img/Pelletizer.jpg
+    alt: "placeholder image 5"
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+With an expected annual growth rate of 20.8%, the 3D printing industry is expected to reach a value just under $80 billion by 2030. I chose to pursue this project because this fast-emerging technology has already begun to shape our future, and I wanted to explore the factors that make digital fabrication so desirable. Not only is 3D printing affordable, but it also makes manufacturing accessible to more people than ever before. However, with more consumption of 3D printed material, there is more waste from failed prints, excess filament, and unecessary printed parts. So, the purpose of my project was to discover a way to effectively recycle 3D printed material. I learned about the physical and molecular properties of 3D printing filament, observed printing applications and filament extrusion, and understood the effect of molecular structure on printability.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
