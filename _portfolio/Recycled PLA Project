@@ -2,11 +2,11 @@
 title: "3D Printing of Recycled Thermoplastic Polylactic Acid Monomers"
 excerpt: "A project that explores an effective way to recycle PLA filament."
 header:
-  image: /assets/img/Extruder.jpg
+  image: /assets/img/Extruder.png
   teaser: /assets/img/Pellets.jpg
 gallery:
-  - url: /assets/img/Pellets.png
-    image_path: assets/img/Pellets.png
+  - url: /assets/img/Pellets.jpg
+    image_path: assets/img/Pellets.jpg
     alt: "placeholder image 1"
   - url: /assets/img/Nozzel.png
     image_path: assets/img/Nozzel.png
