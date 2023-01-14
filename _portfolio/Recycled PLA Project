@@ -11,17 +11,20 @@ gallery:
   - url: /assets/img/Nozzel.png
     image_path: assets/img/Nozzel.png
     alt: "placeholder image 2"
-  - url: /assets/img/Virgin .png
-    image_path: assets/img/Virgin .png
-    alt: "placeholder image 3"
-  - url: /assets/img/Regrind.png
-    image_path: assets/img/Regrind.png
-    alt: "placeholder image 4"    
   - url: /assets/img/Pelletizer.jpg
     image_path: assets/img/Pelletizer.jpg
-    alt: "placeholder image 5"
+    alt: "placeholder image 3"   
+  - url: /assets/img/Virgin .png
+    image_path: assets/img/Virgin .png
+    alt: "placeholder image 4"
+  - url: /assets/img/Regrind.png
+    image_path: assets/img/Regrind.png
+    alt: "placeholder image 5"    
 ---
 
 With an expected annual growth rate of 20.8%, the 3D printing industry is expected to reach a value just under $80 billion by 2030. I chose to pursue this project because this fast-emerging technology has already begun to shape our future, and I wanted to explore the factors that make digital fabrication so desirable. Not only is 3D printing affordable, but it also makes manufacturing accessible to more people than ever before. However, with more consumption of 3D printed material, there is more waste from failed prints, excess filament, and unecessary printed parts. So, the purpose of my project was to discover a way to effectively recycle 3D printed material. I learned about the physical and molecular properties of 3D printing filament, observed printing applications and filament extrusion, and understood the effect of molecular structure on printability.
+
+# CAD Model
+<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
