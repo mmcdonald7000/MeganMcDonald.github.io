@@ -46,6 +46,7 @@ and lead screw will cease rotating and the middle support structure will remain 
   
 ---
 | Off-the-Shelf Parts  | Quantity |
+
 | ------------- | ------------- |
 | 250 mm lead screw with 2mm pitch and 8 mm lead  | 1  |
 | 1/4" x 8 mm Flexible Coupler  | 1  |
