@@ -107,6 +107,6 @@ The back support of the plunger will also stop moving along the linear rod.
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4321ab69ef979d9715?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Arduino Code 
-The Arduino code to run this syringe pump system is [here](https://create.arduino.cc/editor/mmcdonald7000/3189c821-d817-4559-a097-ff17348fe9fe/preview).
+Click [here](https://create.arduino.cc/editor/mmcdonald7000/3189c821-d817-4559-a097-ff17348fe9fe/preview) to access the Arduino code used to run this syringe pump system.
 
 {% include gallery caption="Syringe Pump Photo Gallery" %}
