@@ -11,7 +11,9 @@ gallery:
    
 ---
 
+
 # Purpose
+
 Syringe Pumps are vital pieces of equipment in the medical industry and are used widely
 from laboratories to hospitals. Syringe pumps deliver small amounts (0.012–300 mL/min) of fluid
 accurately and they are commonly used for drug dosing and injections. Syringe pumps are preferred
@@ -25,6 +27,7 @@ Therefore, the purpose of this project was to create a lower
 budget automated syringe pump.
 
 # Features
+
 Mechanically, this syringe pump system is designed so that when the button is pressed, the LED
 changes from red to green and the stepper motor is turned on and begins to run. As one end of the
 flexible coupler is attached to the motor shaft, the coupler rotates in time with the motor shaft. The
@@ -85,6 +88,7 @@ and lead screw will cease rotating and the middle support structure will remain 
 ---
 
 # Operation
+
 To operate our syringe pump, make sure the small, middle floating support piece is set
 directly in front of the coupler at the “starting position”. Place the desired, liquid filled syringe
 (20mL or 5mL) into the corresponding “mold” that supports the body of the pump. The nose of the
@@ -104,9 +108,12 @@ stepper motor will stop turning the flexible coupler, which will stop the rotati
 The back support of the plunger will also stop moving along the linear rod.
 
 # CAD Model
+
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4321ab69ef979d9715?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+
 # Arduino Code 
+
 Click [here](https://create.arduino.cc/editor/mmcdonald7000/3189c821-d817-4559-a097-ff17348fe9fe/preview) to access the Arduino code used to run this syringe pump system.
 
 {% include gallery caption="Syringe Pump Photo Gallery" %}
