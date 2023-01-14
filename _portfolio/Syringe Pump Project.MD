@@ -70,6 +70,20 @@ and lead screw will cease rotating and the middle support structure will remain 
 
 ---
 
+  **3D-Printed Parts**
+  
+---
+  
+| 3D-Printed Parts  | Quantity |
+| ------------- | ------------- |
+| Bottom component of box   | 1  |
+| Top component of box  | 1  |  
+| Motor mount support  | 1  |
+| Middle support structure  | 1  | 
+| Syringe pump body support   | 1  |
+
+---
+
 # Operation
 To operate our syringe pump, make sure the small, middle floating support piece is set
 directly in front of the coupler at the “starting position”. Place the desired, liquid filled syringe
