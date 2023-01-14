@@ -43,6 +43,7 @@ and lead screw will cease rotating and the middle support structure will remain 
 
 # Parts Required 
 * **Off-the-Shelf Parts**
+---
 | Off-the-Shelf Parts  | Quantity |
 | ------------- | ------------- |
 | 250 mm lead screw with 2mm pitch and 8 mm lead  | 1  |
@@ -64,6 +65,8 @@ and lead screw will cease rotating and the middle support structure will remain 
 | Insulated Electrical Wire Connectors  | 4  |
 | 20 Pair 18-24 AWG Gauge Pins  | 1  |
 | 3 mm Heat Insets  | 8  |
+
+---
 
 # Operation
 To operate our syringe pump, make sure the small, middle floating support piece is set
