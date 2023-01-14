@@ -11,8 +11,8 @@ gallery:
   - url: /assets/img/Nozzel.png
     image_path: assets/img/Nozzel.png
     alt: "placeholder image 2"
-  - url: /assets/img/Virgin.png
-    image_path: assets/img/Virgin.png
+  - url: /assets/img/Virgin .png
+    image_path: assets/img/Virgin .png
     alt: "placeholder image 3"
   - url: /assets/img/Regrind.png
     image_path: assets/img/Regrind.png
