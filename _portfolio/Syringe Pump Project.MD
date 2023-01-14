@@ -42,7 +42,7 @@ the syringe, the motion of the system will stop. The motor shaft will no longer 
 and lead screw will cease rotating and the middle support structure will remain in place.
 
 # Parts Required 
-* **Off-the-Shelf Parts**
+  **Off-the-Shelf Parts**
 ---
 | Off-the-Shelf Parts  | Quantity |
 | ------------- | ------------- |
