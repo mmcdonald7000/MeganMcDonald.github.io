@@ -25,6 +25,8 @@ gallery:
 With an expected annual growth rate of 20.8%, the 3D printing industry is expected to reach a value just under $80 billion by 2030. I chose to pursue this project because this fast-emerging technology has already begun to shape our future, and I wanted to explore the factors that make digital fabrication so desirable. Not only is 3D printing affordable, but it also makes manufacturing accessible to more people than ever before. However, with more consumption of 3D printed material, there is more waste from failed prints, excess filament, and unecessary printed parts. So, the purpose of my project was to discover a way to effectively recycle 3D printed material. I learned about the physical and molecular properties of 3D printing filament, observed printing applications and filament extrusion, and understood the effect of molecular structure on printability.
 
 # CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43783cdaa568f87aa1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include header caption="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filabot.com%2Fproducts%2Fex6-bundle&psig=AOvVaw15RNJQ9ZOmFmS7RH9c7Lgi&ust=1673809624862000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJD7z_Pgx_wCFQAAAAAdAAAAABAD)" %}
+
