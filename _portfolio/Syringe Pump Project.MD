@@ -42,6 +42,28 @@ the syringe, the motion of the system will stop. The motor shaft will no longer 
 and lead screw will cease rotating and the middle support structure will remain in place.
 
 # Parts Required 
+* **Off-the-Shelf Parts**
+| Off-the-Shelf Parts  | Quantity |
+| ------------- | ------------- |
+| 250 mm lead screw with 2mm pitch and 8 mm lead  | 1  |
+| 1/4" x 8 mm Flexible Coupler  | 1  |
+| 200 mm linear rod with 8 mm diameter  | 1  |
+| LM8UU Linear bearing for 8 mm diameter rod  | 1 |
+| LM8UU Linear bearing Clips | 2  |
+| Nema 17 Stepper Motor  | 1  |
+| MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp  | 1  |
+| Arduino Uno  | 1  |
+| A4988 Stepper Driver  | 1  |
+| Small Breadboard  | 1  |
+| Panel Mount Latching Push Button  | 1  |
+| Limit Switch  | 1  |
+| RGB Common Cathode LED  | 1  |
+| M3 x 6 mm Screws  | 8  |
+| M3 x 12 mm Screws  | 8  |
+| 24 AWG Wire Roll  |  4  |
+| Insulated Electrical Wire Connectors  | 4  |
+| 20 Pair 18-24 AWG Gauge Pins  | 1  |
+| 3 mm Heat Insets  | 8  |
 
 # Operation
 To operate our syringe pump, make sure the small, middle floating support piece is set
