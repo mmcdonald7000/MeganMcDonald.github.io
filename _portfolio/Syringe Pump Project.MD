@@ -25,7 +25,7 @@ Therefore, the purpose of this project was to create a lower
 budget automated syringe pump.
 
 # Features
-Mechanically, our syringe pump is designed so that when the button is pressed, the LED
+Mechanically, this syringe pump system is designed so that when the button is pressed, the LED
 changes from red to green and the stepper motor is turned on and begins to run. As one end of the
 flexible coupler is attached to the motor shaft, the coupler rotates in time with the motor shaft. The
 lead screw is attached to the other end of the flexible coupler which is how the rotation of the motor
