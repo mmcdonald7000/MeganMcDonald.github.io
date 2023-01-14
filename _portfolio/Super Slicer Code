@@ -12,8 +12,16 @@ header:
   - url: /assets/img/SuperSlicer.png
     image_path: assets/img/SuperSlicer.png
     alt: "placeholder image 2"
+  - url: /assets/img/Code of Super Slicer.png
+    image_path: assets/img/Code of Super Slicer.png
+    alt: "placeholder image 3"
+  - url: /assets/img/SuperSlicer.png
+    image_path: assets/img/SuperSlicer.png
+    alt: "placeholder image 4"
+    
 ---
 
-# Features
+These configuration files provide a simple and organized way for you to interact with the program SuperSlicer. You can take 3D models and convert them into G-code instructions for Voron 2 FFF printers. The files include code for a specific profile that I have created. This profile has settings and parameters for 8 different 3D printing filaments that have been manually set. To access this ability, copy these files into the 'vendor' file in your SuperSlicer zipfiles. 
+
 
 {% include gallery caption="Here are a few photos collected from this program" %}
