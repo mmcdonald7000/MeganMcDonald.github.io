@@ -43,6 +43,7 @@ and lead screw will cease rotating and the middle support structure will remain 
 
 # Parts Required 
   **Off-the-Shelf Parts**
+  
 ---
 | Off-the-Shelf Parts  | Quantity |
 | ------------- | ------------- |
