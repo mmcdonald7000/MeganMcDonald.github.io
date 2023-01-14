@@ -5,19 +5,11 @@ header:
   image: /assets/img/Homepage image.jpg
   teaser: /assets/img/New Super Slicer Teaser.png
   
-  gallery:
-  - url: /assets/img/Code of Super Slicer.png
-    image_path: assets/img/Code of Super Slicer.png
-    alt: "placeholder image 1"
-  - url: /assets/img/SuperSlicer.png
-    image_path: assets/img/SuperSlicer.png
-    alt: "placeholder image 2"
-  - url: /assets/img/SuperSlicer 3D view.png
-    image_path: assets/img/SuperSlicer 3D view.png
-    alt: "placeholder image 3"
-  - url: /assets/img/GCode for SuperSlicer.png
-    image_path: assets/img/GCode for SuperSlicer.png
-    alt: "placeholder image 4"
+    gallery:
+  - image_path: assets/img/Code of Super Slicer.png
+  - image_path: assets/img/SuperSlicer.png
+  - image_path: assets/img/SuperSlicer.png
+  - image_path: assets/img/GCode for SuperSlicer.png
     
 ---
 
