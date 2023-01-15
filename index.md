@@ -18,9 +18,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "Lego Car"
     excerpt: "A lego car made with interchangable gear ratios."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Microfludic Device.png
+    title: "Microfluidic Device"
+    excerpt: "A device built to separate E. coli bacteria from the bloodstream. "
 ---
 
 {% include feature_row %}
