@@ -14,10 +14,10 @@ feature_row:
     alt: "Pipe plug"
     title: "3D Printed Pipe Plug"
     excerpt: "3D printed plug designed for keeping fluids from coming out of a PVC pipe."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/Mech E project.jpg
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "Lego Car"
+    excerpt: "A lego car made with interchangable gear ratios."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
