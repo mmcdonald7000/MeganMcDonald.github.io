@@ -5,10 +5,16 @@ header:
   image: /assets/img/Syringe Pump Design.jpg
   teaser: /assets/img/Syringe Pump Design.jpg
 gallery:
-  - image_path: assets/img/Syringe Pump Design.jpg
-  - image_path: assets/img/Syringe Pump pic 2.jpg 
-  - image_path: assets/img/Syringe Pump pic 3.jpg
-   
+  - url: /assets/img/Syringe Pump Design.jpg
+    image_path: assets/img/Syringe Pump Design.jpg
+    alt: "placeholder image 1"
+  - url: /assets/img/Syringe Pump pic 2.jpg
+    image_path: assets/img/Syringe Pump pic 2.jpg
+    alt: "placeholder image 2"
+  - url: /assets/img/Syringe Pump pic 3.jpg
+    image_path: assets/img/Syringe Pump pic 3.jpg
+    alt: "placeholder image 3"    
+    
 ---
 
 
