@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Megan McDonald is an undergraduate engineering student at Vanderbilt University with a passion for learning and creativity."
+excerpt: "Megan McDonald is an undergraduate engineering student at Vanderbilt University with a passion for learning and creativity. Her goal is to apply her skills and work ethic in the polymer and organic industry."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
