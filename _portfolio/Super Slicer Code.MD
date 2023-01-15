@@ -4,7 +4,6 @@ excerpt: "A set of configuration files that can make it easier and faster to pri
 header:
   image: /assets/img/Homepage image.jpg
   teaser: /assets/img/New Super Slicer Teaser.png
-  
   gallery:
   - image_path: assets/img/Code of Super Slicer.png
   - image_path: assets/img/SuperSlicer.png
