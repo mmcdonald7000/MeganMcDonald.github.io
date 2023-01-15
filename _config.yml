@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/Screenshot 2023-01-10 191239.png"
-  bio              : "An undergraduate engineering student with a passion for learning "
+  bio              : "I am an undergraduate engineering student at Vanderbilt University with a passion for learning and creativity. My goal is to apply my skills and work ethic in the polymer and organic industry."
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
