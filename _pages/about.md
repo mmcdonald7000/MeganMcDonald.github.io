@@ -8,7 +8,7 @@ I am an undergraduate sophmore who enjoyes being involved with her campus. I man
 
 ## Education
 
-* Vanderbilt University
+* Vanderbilt University (May 2025)
   * Bachelor of Engineering in Chemical Engineering
   * Chemistry Minor
   * Digital Fabrication Minor
