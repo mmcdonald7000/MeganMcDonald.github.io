@@ -5,14 +5,14 @@ header:
   image: /assets/img/Pliers1.jpg
   teaser: /assets/img/Pliers2.jpg
 gallery:
-  - url: /assets/img/Phone_and_Phone_Case_2022-Nov-01_05-19-45AM-000_CustomizedView26592422270.png
-    image_path: assets/img/Phone_and_Phone_Case_2022-Nov-01_05-19-45AM-000_CustomizedView26592422270.png
+  - url: /assets/img/Pliers3.png
+    image_path: assets/img/Pliers3.png
     alt: "placeholder image 1"
-  - url: /assets/img/Phone_and_Phone_Case_2022-Nov-01_05-20-18AM-000_CustomizedView8116827422.png
-    image_path: assets/img/Phone_and_Phone_Case_2022-Nov-01_05-20-18AM-000_CustomizedView8116827422.png
+  - url: /assets/img/Pliers4.png
+    image_path: assets/img/Pliers4.png
     alt: "placeholder image 2"
-  - url: /assets/img/Phone_and_Phone_Case_2022-Nov-01_05-21-17AM-000_CustomizedView7316337097.png
-    image_path: assets/img/Phone_and_Phone_Case_2022-Nov-01_05-21-17AM-000_CustomizedView7316337097.png
+  - url: /assets/img/Pliers5.png
+    image_path: assets/img/Pliers5.png
     alt: "placeholder image 3"
 ---
 
