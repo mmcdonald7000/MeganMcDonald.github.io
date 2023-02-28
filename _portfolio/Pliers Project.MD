@@ -29,6 +29,6 @@ Snap-fit models are functional designs that are printed in separate components a
 * **Print Settings** The ABS component used the Digital Fabrication Lab (DFL) configuration files for the Voron2 printers. Some characteristics of this material include a higher bed temperature and extrusion nozzle temperature. The PLA and 95A TPU filaments were printed using the MakerGear configuration files provided by the Digital Fabrication Lab and the program SuperSlicier. The TPU material was printed slower than the PLA filament and had a faster retraction speed (15mm/s). Support material was included under the flexible piece, and it was made of PLA. Additionally, there was a wipe tower to prime the extrusion nozzles and wipe excess filament before printing each layer. 
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4391672357579d590a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://a360.co/3IWAatx" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="This is a sample gallery to go along with this project." %}
