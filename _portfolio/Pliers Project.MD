@@ -1,9 +1,9 @@
 ---
 title: "Multi-Material 3D Printed Pliers"
-excerpt: "A multi-material plier designed with a flexible TPU spring component and rigid PLA body. These pliers are capable of handling 3 mm diameter plastic pellets."
+excerpt: "A multi-material plier designed with a flexible TPU spring component and rigid PLA and ABS body. These pliers are capable of handling 3 mm diameter plastic pellets."
 header:
   image: /assets/img/Pliers1.jpg
-  teaser: /assets/img/Pliers7.png
+  teaser: /assets/img/Pliers6.png
 gallery:
   - url: /assets/img/Pliers3.png
     image_path: assets/img/Pliers3.png
@@ -11,8 +11,8 @@ gallery:
   - url: /assets/img/Pliers4.png
     image_path: assets/img/Pliers4.png
     alt: "placeholder image 2"
-  - url: /assets/img/Pliers6.png
-    image_path: assets/img/Pliers6.png
+  - url: /assets/img/Pliers7.png
+    image_path: assets/img/Pliers7.png
     alt: "placeholder image 3"
   - url: /assets/img/Pliers5.png
     image_path: assets/img/Pliers5.png
