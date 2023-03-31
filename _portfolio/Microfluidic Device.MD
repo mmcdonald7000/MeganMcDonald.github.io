@@ -2,17 +2,17 @@
 title: "Microfluidic Device: Pinch Flow Fractionation"
 excerpt: "A microfluidic device was created using high-resolution printing capabilities of a Form 3 SLA printer to print a mold, which was then casted with PDMS and bonded to a glass slide."
 header:
-  image: /assets/img/Front Phone Cases.jpg
-  teaser: /assets/img/Front Phone Cases.jpg
+  image: /assets/img/MicroMold.jpg
+  teaser: /assets/img/MicroMold.jpg
 gallery:
-  - url: /assets/img/Phone_and_Phone_Case_2022-Nov-01_05-19-45AM-000_CustomizedView26592422270.png
-    image_path: assets/img/Phone_and_Phone_Case_2022-Nov-01_05-19-45AM-000_CustomizedView26592422270.png
+  - url: /assets/img/MicroMold.jpg
+    image_path: assets/img/MicroMold.jpg
     alt: "placeholder image 1"
-  - url: /assets/img/Phone_and_Phone_Case_2022-Nov-01_05-20-18AM-000_CustomizedView8116827422.png
-    image_path: assets/img/Phone_and_Phone_Case_2022-Nov-01_05-20-18AM-000_CustomizedView8116827422.png
+  - url: /assets/img/MicroMold2.jpg
+    image_path: assets/img/MicroMold2.jpg
     alt: "placeholder image 2"
-  - url: /assets/img/Phone_and_Phone_Case_2022-Nov-01_05-21-17AM-000_CustomizedView7316337097.png
-    image_path: assets/img/Phone_and_Phone_Case_2022-Nov-01_05-21-17AM-000_CustomizedView7316337097.png
+  - url: /assets/img/MicroMold3.jpg
+    image_path: assets/img/MicroMold3.jpg
     alt: "placeholder image 3"
 ---
 
