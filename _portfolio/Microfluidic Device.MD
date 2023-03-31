@@ -1,6 +1,6 @@
 ---
 title: "Microfluidic Device: Pinch Flow Fractionation"
-excerpt: "A microfluidic device was created using a Form 3 SLA printer to print a mold, which was then casted with PDMS and bonded to a glass slide."
+excerpt: "A microfluidic device created using a Form 3 SLA printer to print a mold, which was then casted with PDMS and bonded to a glass slide."
 header:
   image: /assets/img/MicroMold2.jpg
   teaser: /assets/img/MicroMold.jpg
