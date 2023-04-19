@@ -44,6 +44,6 @@ Because of the cheap costs, scalability, and fewer required laborers, 3D printed
 
 
 # CAD Model
-<iframe src="https://a360.co/3M1vJ2B" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://a360.co/40j7HDM" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="This is a sample gallery to go along with this project." %}
