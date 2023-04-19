@@ -2,18 +2,24 @@
 title: "Large Format 3D Printed Podium"
 excerpt: "Generative design was leveraged to create an optimized podium for large format 3D printing."
 header:
-  image: /assets/img/MicroMold.jpg
-  teaser: /assets/img/MicroMold4.jpg
+  image: /assets/img/podiuma.jpg
+  teaser: /assets/img/podiumb.jpg
 gallery:
-  - url: /assets/img/MicroMold.jpg
-    image_path: assets/img/MicroMold.jpg
+  - url: /assets/img/podiumc.jpg
+    image_path: assets/img/podiumc.jpg
     alt: "placeholder image 1"
-  - url: /assets/img/MicroMold2.jpg
-    image_path: assets/img/MicroMold2.jpg
+  - url: /assets/img/podiumd.jpg
+    image_path: assets/img/podiumd.jpg
     alt: "placeholder image 2"
-  - url: /assets/img/MicroMold3.jpg
-    image_path: assets/img/MicroMold3.jpg
+  - url: /assets/img/podiume.jpg
+    image_path: assets/img/podiume.jpg
     alt: "placeholder image 3"
+  - url: /assets/img/podiumf.jpg
+    image_path: assets/img/podiumf.jpg
+    alt: "placeholder image 4"
+  - url: /assets/img/podiumg.jpg
+    image_path: assets/img/podiumg.jpg
+    alt: "placeholder image 5"
 ---
 
 # Design Description & Discussion
