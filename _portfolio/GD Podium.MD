@@ -5,20 +5,20 @@ header:
   image: /assets/img/podiuma.jpg
   teaser: /assets/img/podiumh.png
 gallery:
-  - url: /assets/img/podiumc.jpg
-    image_path: assets/img/podiumc.jpg
+  - url: /assets/img/podium1.jpg
+    image_path: assets/img/podium1.jpg
     alt: "placeholder image 1"
-  - url: /assets/img/podiumd.jpg
-    image_path: assets/img/podiumd.jpg
+  - url: /assets/img/podium2.jpg
+    image_path: assets/img/podium2.jpg
     alt: "placeholder image 2"
-  - url: /assets/img/podiume.jpg
-    image_path: assets/img/podiume.jpg
+  - url: /assets/img/podium3.jpg
+    image_path: assets/img/podium3.jpg
     alt: "placeholder image 3"
-  - url: /assets/img/podiumf.jpg
-    image_path: assets/img/podiumf.jpg
+  - url: /assets/img/podium4.jpg
+    image_path: assets/img/podium4.jpg
     alt: "placeholder image 4"
-  - url: /assets/img/podiumg.jpg
-    image_path: assets/img/podiumg.jpg
+  - url: /assets/img/podium5.jpg
+    image_path: assets/img/podium5.jpg
     alt: "placeholder image 5"
 ---
 
