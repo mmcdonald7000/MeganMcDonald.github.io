@@ -3,7 +3,7 @@ title: "Large Format 3D Printed Podium"
 excerpt: "Generative design was leveraged to create an optimized podium for large format 3D printing."
 header:
   image: /assets/img/podiuma.jpg
-  teaser: /assets/img/podiumd.jpg
+  teaser: /assets/img/podiumh.jpg
 gallery:
   - url: /assets/img/podiumc.jpg
     image_path: assets/img/podiumc.jpg
