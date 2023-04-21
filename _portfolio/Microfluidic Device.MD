@@ -14,6 +14,13 @@ gallery:
   - url: /assets/img/MicroMold3.jpg
     image_path: assets/img/MicroMold3.jpg
     alt: "placeholder image 3"
+  - url: /assets/img/Microdevice2.JPEG
+    image_path: assets/img/Microdevice2.JPEG
+    alt: "placeholder image 4"
+  - url: /assets/img/Microdevice1.JPEG
+    image_path: assets/img/Microdevice1.JPEG
+    alt: "placeholder image 5"    
+    
 ---
 
 # Description & Application
