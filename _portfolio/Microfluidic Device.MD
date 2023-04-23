@@ -38,6 +38,9 @@ The microfluidic device was created using a mold, which was produced by the high
 # 3D Printed Mold to Device
 Once the 3D printed mold was removed and cleaned from the SLA printer, the 3D-printed mold was coated with a “non-stick” substance to facilitate the successful casting of PDMS. To cast the mold, a solution of SYLGARD™ 184 Silicone Elastomer was thoroughly mixed so that there were no bubbles. The mold was filled with the solution and set in a vacuum drying oven. The cured PDMS was removed from the mold and bonded to a glass slide. The device was then set up with inlet and outlet microfluidic tubing for particle separation. 
 
+# YouTube Video
+<iframe src="https://youtu.be/tkyPoLz9E3s" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 # CAD Model
 <iframe src="https://a360.co/3M1vJ2B" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
