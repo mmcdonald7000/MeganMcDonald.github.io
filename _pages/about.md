@@ -4,7 +4,7 @@ title: "About Megan McDonald"
 
 ---
 
-I am an undergraduate sophmore who enjoyes being involved with her campus. I manage my time well, collaborate effectively with others, prioritize my studies, and keep a good balance between work and pastime activities (i.e, playing tennis and painting). I am a creative learning and a determined worker seeking a job in the polymer and organic based industry. I find organic chemistry fascinating and I have love my experience working with polymer based manufacturing in the Digital Fabrication lab at my university.   
+I am an undergraduate sophmore who enjoyes being involved with her campus. I manage my time well, collaborate effectively with others, prioritize my studies, and keep a good balance between work and pastime activities (i.e, playing tennis and painting). I am a creative learning and a determined worker seeking a job in the polymer and organic based industry. I find organic chemistry fascinating and I have loved my experience working with polymer based manufacturing in the Digital Fabrication Lab at my university.   
 
 ## Education
 
